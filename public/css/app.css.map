@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEA;EAEI,iBAAiB,EACpB;;AACD;EACI,iBAAgB,EACnB;;AACD;EACI,cAAc,EACjB","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n\n#admin-page{\n\n    padding-top: 0px;\n}\n#nested-comment{\n    margin-top:60px;\n}\n.comment-reply{\n    display: none;\n}"]}
